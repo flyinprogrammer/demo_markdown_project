@@ -6,5 +6,6 @@
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
+| Test column | Two more    | SaD           | 
 
 This is a test table.
